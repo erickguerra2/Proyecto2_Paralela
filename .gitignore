@@ -1,0 +1,7 @@
+*.o
+*.exe
+test_des_core
+cifrar
+secuencial
+bruteforce_mpi
+*.csv
